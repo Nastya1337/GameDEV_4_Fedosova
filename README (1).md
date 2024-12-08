@@ -41,27 +41,32 @@
 ## Задание 1
 ### Создайте пустой проект на Unity.
 Для создания пустого проекта, мне потребовалось установить Unity hub, затем я установила необлходимую версию Unity и запустила новый проект.
-![defolt_scene](image.png)
+![image](https://github.com/user-attachments/assets/b376487a-3cf8-4df2-9457-12aa17c4880b)
 
 ## Задание 2
 ### Добавьте пустой объект Empty Game Object с именем Perceptron.
 Для того чтобы добавить пустой объект, необходимо в SampleScene нажать правой кнопкой мыши и выбрать Create Empty.
 Далее я назвала его как: Perceptron
-![createEmpty](image-1.png)
+![image](https://github.com/user-attachments/assets/0c9db1af-2f14-449b-b520-d9f4c0a294a7)
+
 
 ## Задание 3
 ### Подключите Perceptron.cs к пустому Game Object с именем Perceptron.
 Далее я с git установила файл Perceptron.cs и добавила его в свой проект
-![addScript](image-2.png) 
+![image](https://github.com/user-attachments/assets/49ef881a-f631-4e49-9b7d-f203f6b7be07)
+
 
 Затем я перетащила файл на созданный пустой объект, тем самым назначив к нему скрипт
-![addScriptToComponent](image-3.png)
+![image](https://github.com/user-attachments/assets/86f85610-7c55-4321-8ed4-77475ea64ea7)
+
 
 Я увидела, что можно добавить различные компоненты
-![chooseComponent](image-4.png)
+![image](https://github.com/user-attachments/assets/d99534cd-b29c-4789-80e8-280a21ee35cf)
+
 
 Просмотрев код данного скрипта, я поняла, что он выводит ошибки.
-![Component](image-5.png)
+![image](https://github.com/user-attachments/assets/a8ed4eda-4a6c-432b-b199-6a9e5e854d68)
+
 
 ## Выводы
 В этой работе я добавила скрипт Perceptron.cs и создала проект на Unity.
